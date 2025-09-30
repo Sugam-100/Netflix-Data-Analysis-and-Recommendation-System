@@ -1,7 +1,7 @@
 # 🎬 Netflix Data Analysis & Recommendation System  
 
-![Netflix Banner](https://cdn.pixabay.com/photo/2019/04/13/09/56/netflix-4129120_1280.jpg)  
-*(Replace with your own dashboard image below)*  
+![Netflix Banner](https://github.com/Sugam-100/Netflix-Data-Analysis-and-Recommendation-System/blob/main/Netflix%20Dashboard%20Snapshort.png)  
+
 
 ---
 
